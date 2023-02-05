@@ -1,0 +1,16 @@
+{
+  "name": "textlint-issue-disable-child-rule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "textlint TEST.md"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "textlint": "^13.1.3",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
+  }
+}

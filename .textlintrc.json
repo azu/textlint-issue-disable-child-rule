@@ -1,0 +1,9 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": false
+    }
+  }
+}
